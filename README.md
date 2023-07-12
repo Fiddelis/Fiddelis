@@ -2,7 +2,6 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DevFiddelis)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/lucas-ruan-fidelis-ferreira-95212a210/)https://www.linkedin.com/in/lucas-ruan-fidelis-ferreira-95212a210/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](fiddelis)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/lucasruan.ff/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fiddelis&layout=compact&theme=dracula)
