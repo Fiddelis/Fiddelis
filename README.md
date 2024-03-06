@@ -1,4 +1,4 @@
-# Fidelis
+# Fiddelis
 <img align="right" alt="harry_potter" height="150" width="180" src="https://media.tenor.com/iBmiORqOPXoAAAAM/harry-potter-daniel-radcliffe.gif" />
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ruan-fidelis/)
