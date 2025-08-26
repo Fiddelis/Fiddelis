@@ -9,7 +9,9 @@
 </div>
 
 ###
-
+<div align="center">
+  <a href="https://wakatime.com/@3ce9d117-a2d3-417d-9dec-9c666dfd7fe6"><img src="https://wakatime.com/badge/user/3ce9d117-a2d3-417d-9dec-9c666dfd7fe6.svg" alt="Total time coded since Aug 5 2025" /></a>
+</div>
 <table align="center" border="1" cellspacing="0" cellpadding="5">
   <tr>
     <th>Category</th>
