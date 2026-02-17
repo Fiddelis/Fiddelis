@@ -1,14 +1,6 @@
 # Fiddelis
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fiddelis&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img height="150" src="https://media.tenor.com/iBmiORqOPXoAAAAM/harry-potter-daniel-radcliffe.gif"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fiddelis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 <div align="center">
   <a href="https://wakatime.com/@3ce9d117-a2d3-417d-9dec-9c666dfd7fe6"><img src="https://wakatime.com/badge/user/3ce9d117-a2d3-417d-9dec-9c666dfd7fe6.svg" alt="Total time coded since Aug 5 2025" /></a>
 </div>
