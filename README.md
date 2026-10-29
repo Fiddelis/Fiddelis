@@ -1,49 +1,32 @@
-# Fiddelis
+Software Engineering undergraduate at **Inatel**, focused on Machine Learning, LLMs, and AI Engineering.
+  
+📄 **Publications**
+  
+*[Otimização de Triagem de Alertas em SOCs com LLMs](https://inatel.br/noticias/estudantes-do-inatel-sao-destaque-no-premio-talentos-na-engenharia) — 3rd Place, Prêmio Talentos na Engenharia 2025 (ABENGE).*
 
-###
-<div align="center">
-  <a href="https://wakatime.com/@3ce9d117-a2d3-417d-9dec-9c666dfd7fe6"><img src="https://wakatime.com/badge/user/3ce9d117-a2d3-417d-9dec-9c666dfd7fe6.svg" alt="Total time coded since Aug 5 2025" /></a>
-</div>
-<table align="center" border="1" cellspacing="0" cellpadding="5">
-  <tr>
-    <th>Category</th>
-    <th>Technologies</th>
-  </tr>
-  <tr>
-    <td>Programming Languages</td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript">
-      <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++">
-    </td>
-  </tr>
-  <tr>
-    <td>Frameworks</td>
-    <td>
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff" alt="Spring">
-      <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js">
-      <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="Spring">
-    </td>
-  </tr>
-  <tr>
-    <td>Databases</td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL">
-      <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="PostgreSQL">
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="MongoDB">
-    </td>
-  </tr>
-</table>
+🛠️ **Tech Stack**
+
+AI & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-1c3c3c?logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langgraph&logoColor=white)
+
+Development & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ---
 
 <div align="center">
-  
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lucas-ruan-fidelis/)
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/210895480429871104)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lucasruan.ff/)
 
-  [Fiddelis.dev](https://www.fiddelis.dev) | [Kognilo.com](https://www.kognilo.com)
+[Fiddelis.dev](https://www.fiddelis.dev) | [Kognilo.com](https://www.kognilo.com) | [HuggingFace](https://huggingface.co/Fiddelis) | [LinkedIn](https://www.linkedin.com/in/lucas-ruan-fidelis/)
+
 </div>
